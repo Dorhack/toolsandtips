@@ -31,13 +31,15 @@ This page will be updated every time we use a new tool.
 
 * [Steganabara](https://github.com/quangntenemy/Steganabara): Steganabara is a tool for stegano analysis, with some of the ideas originated from my final year project.
 
+* [StegOnline](https://stegonline.georgeom.net/checklist): A web-based, enhanced and open-source port of StegSolve. Upload any image file, and the relevant options will be displayed. 
+
 ## <a id="ocr"></a>OCR
 * [Tesseract](https://github.com/tesseract-ocr/tesseract): Optical character recognition engine. There is also the python version [pytesseract](https://github.com/madmaze/pytesseract)
 
 ## <a id="web"></a>Web
 
 ## <a id="crypto"></a>Crypto
-* [CyberChef](https://gchq.github.io/CyberChef/)
+* [CyberChef](https://gchq.github.io/CyberChef/): A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages
 
 ## <a id="misc"></a>Misc
 
@@ -49,3 +51,6 @@ This page will be updated every time we use a new tool.
 ---
 ## <a id="links"></a>Useful links
 * [Kali tools listing](https://tools.kali.org/tools-listing)
+
+* [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
+
